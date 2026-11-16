@@ -67,7 +67,7 @@ Object detection with Faster R-CNN and ResNet</li>
 </ul>
 <hr>
 <h2>📫 Contact</h2>
-<p>ssshyun1001@swu.ac.kr</p>
+<p>ssshyun1001@gmail.com</p>
 <div align="center">
 <img src="footer.svg" alt="Thanks for visiting" width="100%">
 </div>
