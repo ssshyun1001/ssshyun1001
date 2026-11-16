@@ -1,49 +1,16 @@
-# Hi, I'm Seohyun Yun 👋
+# Hello, My name is Seohyun Yun
+
+Data Science student interested in Machine Learning and LLM-based data analysis.
 
 ---
 
-## 🌱 About
+## 💁🏻‍♀️ About Me
 
-Undergraduate in Data Science at Seoul Women's University.
-
-- 🎓 Exchange student at California State University, Long Beach (2026)
-- 🇰🇷🇺🇸 Participant, Korea-U.S. Advanced Technology Scholarship Program (KORUS 70) (2026)
-- 📊 President of DSOB, a data science club (2024–2025)
-
----
-
-## 🏆 Highlights
-
-- 📰 **[2026.07 – ] AI News Q&A Service**<br>
-  RAG-based news Q&A with LangChain and FAISS
-
-- 🛩️ **[2025.12] KAI Special Award** at 2025 Korea Air Force Academy Future Aerospace Conference<br>
-  UAV real-time object detection with YOLOv8, benchmarking 6 image preprocessing methods
-
-- 🔋 **[2025.09] Excellence Award** at 2025 Industrial Safety Win-Win Paper Contest<br>
-  Li-ion battery SOC prediction with XGBoost and SHAP interpretation
-
-- 🌐 **[2025.06] 에티코드 (Ethicode)** · AI bias quiz for an AI ethics campaign<br>
-  Deployed on GitHub Pages, 249 participants
-
-- 🥬 **[2024.11] Foreign object detection in dried seaweed (gim)**<br>
-  Object detection with Faster R-CNN and ResNet
-
----
-
-## 🥇 Awards
-
-- **2025.12** KAI Special Award, 2025 Korea Air Force Academy Future Aerospace Conference
-- **2025.09** Excellence Award (Student Category), 2025 Industrial Safety Win-Win Paper Contest
-- **2023** Encouragement Award, GURU Hackathon (Python/HTML)
-
----
-
-## 💼 Experience
-
-- **Seoul Women's University GURU** · Python Advisor (2026)
-
-- **DSOB** · Member (2023) → President (2024–2025)
+- 🎓 Undergraduate in Data Science at Seoul Women's University
+- 🌎 Exchange student at California State University, Long Beach (2026)
+- 🔍 Interested in Machine Learning, RAG, and data analysis & visualization
+- 📊 Experienced in ML and data projects: object detection, battery SOC prediction, news Q&A
+- 🤝 President of DSOB, a data science club (2024–2025) · Participant, KORUS 70 Korea-U.S. scholarship program (2026)
 
 ---
 
@@ -80,6 +47,40 @@ Undergraduate in Data Science at Seoul Women's University.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+---
+
+## 🗂️ Projects
+
+- 📰 **[2026.07 – ] AI News Q&A Service**<br>
+  RAG-based news Q&A with LangChain and FAISS
+
+- 🛩️ **[2025.12] KAI Special Award** at 2025 Korea Air Force Academy Future Aerospace Conference<br>
+  UAV real-time object detection with YOLOv8, benchmarking 6 image preprocessing methods
+
+- 🔋 **[2025.09] Excellence Award** at 2025 Industrial Safety Win-Win Paper Contest<br>
+  Li-ion battery SOC prediction with XGBoost and SHAP interpretation
+
+- 🌐 **[2025.06] 에티코드 (Ethicode)** · AI bias quiz for an AI ethics campaign<br>
+  Deployed on GitHub Pages, 249 participants
+
+- 🥬 **[2024.11] Foreign object detection in dried seaweed (gim)**<br>
+  Object detection with Faster R-CNN and ResNet
+
+---
+
+## 🥇 Awards
+
+- **2025.12** KAI Special Award, 2025 Korea Air Force Academy Future Aerospace Conference
+- **2025.09** Excellence Award (Student Category), 2025 Industrial Safety Win-Win Paper Contest
+- **2023** Encouragement Award, GURU Hackathon (Python/HTML)
+
+---
+
+## 💼 Experience
+
+- **Seoul Women's University GURU** · Python Advisor (2026)
+
+- **DSOB** · Member (2023) → President (2024–2025)
 
 ---
 
