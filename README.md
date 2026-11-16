@@ -1,26 +1,35 @@
 ## Hi, I'm Seohyun Yun 👋
 
-🌱 About
+## 🌱 About
 Undergraduate in Data Science at Seoul Women's University.
 - 🎓 Exchange student at California State University, Long Beach (2026)
 - 🇰🇷🇺🇸 Participant, Korea-U.S. Advanced Technology Scholarship Program (KORUS 70) (2026)
-- President of DSOB, a data science club (2024–2025)
+- 📊 President of DSOB, a data science club (2024–2025)
 - 
-🏆 Highlights
-📰 [2026.07 – ] AI News Q&A Service RAG-based news Q&A with LangChain and FAISS
-🛩️ [2025.12] KAI Special Award at 2025 Korea Air Force Academy Future Aerospace Conference UAV real-time object detection with YOLOv8, benchmarking 6 image preprocessing methods
-🔋 [2025.09] Excellence Award at 2025 Industrial Safety Win-Win Paper Contest Li-ion battery SOC prediction with XGBoost and SHAP interpretation
-🌐 [2025.06] 에티코드 (Ethicode) · AI bias quiz for an AI ethics campaign Deployed on GitHub Pages, 249 participants
-🥬 [2024.11] Foreign object detection in dried seaweed (gim) Object detection with Faster R-CNN and ResNet
 
-🥇 Awards
-2025.12 KAI Special Award, 2025 Korea Air Force Academy Future Aerospace Conference
-2025.09 Excellence Award (Student Category), 2025 Industrial Safety Win-Win Paper Contest
-2023 Encouragement Award, GURU Hackathon (Python/HTML)
+## 🏆 Highlights
+ 
+* 📰 **[2026.07 – ] AI News Q&A Service**
+  RAG-based news Q&A with LangChain and FAISS
+* 🛩️ **[2025.12] KAI Special Award** at 2025 Korea Air Force Academy Future Aerospace Conference
+  UAV real-time object detection with YOLOv8, benchmarking 6 image preprocessing methods
+* 🔋 **[2025.09] Excellence Award** at 2025 Industrial Safety Win-Win Paper Contest
+  Li-ion battery SOC prediction with XGBoost and SHAP interpretation
+* 🌐 **[2025.06] 에티코드 (Ethicode)** · AI bias quiz for an AI ethics campaign
+  Deployed on GitHub Pages, 249 participants
+* 🥬 **[2024.11] Foreign object detection in dried seaweed (gim)**
+  Object detection with Faster R-CNN and ResNet
+  
 
-💼 Experience
-- Seoul Women's University GURU · Python Advisor (2026)
-- DSOB · Member (2023) → President (2024–2025)
+## 🥇 Awards
+- **2025.12** KAI Special Award, 2025 Korea Air Force Academy Future Aerospace Conference
+- **2025.09** Excellence Award (Student Category), 2025 Industrial Safety Win-Win Paper Contest
+- **2023** Encouragement Award, GURU Hackathon (Python/HTML)
+
+
+## 💼 Experience
+- **Seoul Women's University GURU** · Python Advisor (2026)
+- **DSOB** · Member (2023) → President (2024–2025)
 
 🛠️ Tech Stack
 Languages 
@@ -41,7 +50,9 @@ ML / DL / Data
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 Visualization 
-Tableau, R Shiny, Looker Studio APIs 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
